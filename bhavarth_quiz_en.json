@@ -1,0 +1,818 @@
+{
+  "schemaVersion": "1.0",
+  "language": "en",
+  "title": "Gyaan Amrit",
+  "description": "Daily scripture and Hindu knowledge quiz for Bhavarth",
+  "questionCount": 29,
+  "categories": [
+    {
+      "id": "ramayana",
+      "name": "Ramayana"
+    },
+    {
+      "id": "bhagavad_gita",
+      "name": "Bhagavad Gita"
+    },
+    {
+      "id": "mahabharata",
+      "name": "Mahabharata"
+    },
+    {
+      "id": "shiva_purana",
+      "name": "Shiva Purana"
+    },
+    {
+      "id": "vishnu_purana",
+      "name": "Vishnu Purana"
+    },
+    {
+      "id": "hindu_gods_goddesses",
+      "name": "Hindu Gods & Goddesses"
+    }
+  ],
+  "questions": [
+    {
+      "id": "ramayana_001",
+      "categoryId": "ramayana",
+      "category": "Ramayana",
+      "question": "For how many years was Lord Rama sent into exile?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 years"
+        },
+        {
+          "id": "B",
+          "text": "14 years"
+        },
+        {
+          "id": "C",
+          "text": "10 years"
+        },
+        {
+          "id": "D",
+          "text": "16 years"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Lord Rama accepted fourteen years of exile to honor King Dasharatha's promise. Sita and Lakshmana accompanied him.",
+      "reference": "Valmiki Ramayana, Ayodhya Kanda"
+    },
+    {
+      "id": "ramayana_002",
+      "categoryId": "ramayana",
+      "category": "Ramayana",
+      "question": "Who was the father of Goddess Sita?",
+      "options": [
+        {
+          "id": "A",
+          "text": "King Dasharatha"
+        },
+        {
+          "id": "B",
+          "text": "King Janaka"
+        },
+        {
+          "id": "C",
+          "text": "King Drupada"
+        },
+        {
+          "id": "D",
+          "text": "King Shantanu"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Goddess Sita was raised by King Janaka of Mithila and is therefore also known as Janaki and Maithili.",
+      "reference": "Valmiki Ramayana, Bala Kanda"
+    },
+    {
+      "id": "ramayana_003",
+      "categoryId": "ramayana",
+      "category": "Ramayana",
+      "question": "Who was the mother of Hanuman?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kaushalya"
+        },
+        {
+          "id": "B",
+          "text": "Anjana"
+        },
+        {
+          "id": "C",
+          "text": "Sumitra"
+        },
+        {
+          "id": "D",
+          "text": "Kaikeyi"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Anjana was Hanuman's mother. Hanuman is also known as Anjaneya and, in tradition, Pavanputra.",
+      "reference": "Ramayana tradition"
+    },
+    {
+      "id": "ramayana_004",
+      "categoryId": "ramayana",
+      "category": "Ramayana",
+      "question": "Which Vanara is traditionally credited with a leading role in building the bridge to Lanka?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Angada"
+        },
+        {
+          "id": "B",
+          "text": "Nala"
+        },
+        {
+          "id": "C",
+          "text": "Sugriva"
+        },
+        {
+          "id": "D",
+          "text": "Jambavan"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nala played a leading role in constructing the bridge to Lanka with the Vanara army. It is known as Rama Setu.",
+      "reference": "Valmiki Ramayana, Yuddha Kanda"
+    },
+    {
+      "id": "ramayana_005",
+      "categoryId": "ramayana",
+      "category": "Ramayana",
+      "question": "Which brother of Ravana sought refuge with Lord Rama?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kumbhakarna"
+        },
+        {
+          "id": "B",
+          "text": "Vibhishana"
+        },
+        {
+          "id": "C",
+          "text": "Meghanada"
+        },
+        {
+          "id": "D",
+          "text": "Ahiravana"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Vibhishana advised Ravana to return Sita. When Ravana refused, Vibhishana sought refuge with Rama.",
+      "reference": "Valmiki Ramayana, Yuddha Kanda"
+    },
+    {
+      "id": "bhagavad_gita_006",
+      "categoryId": "bhagavad_gita",
+      "category": "Bhagavad Gita",
+      "question": "To whom did Lord Krishna teach the Bhagavad Gita?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bhishma"
+        },
+        {
+          "id": "B",
+          "text": "Arjuna"
+        },
+        {
+          "id": "C",
+          "text": "Yudhishthira"
+        },
+        {
+          "id": "D",
+          "text": "Karna"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "On the battlefield of Kurukshetra, Krishna taught Arjuna about duty, action, the self, and yoga.",
+      "reference": "Bhagavad Gita, Chapters 1–2"
+    },
+    {
+      "id": "bhagavad_gita_007",
+      "categoryId": "bhagavad_gita",
+      "category": "Bhagavad Gita",
+      "question": "How many chapters are there in the Bhagavad Gita?",
+      "options": [
+        {
+          "id": "A",
+          "text": "16"
+        },
+        {
+          "id": "B",
+          "text": "18"
+        },
+        {
+          "id": "C",
+          "text": "20"
+        },
+        {
+          "id": "D",
+          "text": "24"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The commonly received Bhagavad Gita has eighteen chapters, covering themes from Arjuna's despondency to liberation and renunciation.",
+      "reference": "Bhagavad Gita"
+    },
+    {
+      "id": "bhagavad_gita_008",
+      "categoryId": "bhagavad_gita",
+      "category": "Bhagavad Gita",
+      "question": "What is the title of the first chapter of the Bhagavad Gita?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Karma Yoga"
+        },
+        {
+          "id": "B",
+          "text": "Arjuna Vishada Yoga"
+        },
+        {
+          "id": "C",
+          "text": "Jnana Yoga"
+        },
+        {
+          "id": "D",
+          "text": "Bhakti Yoga"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The first chapter is Arjuna Vishada Yoga. It describes Arjuna's grief and confusion upon seeing his relatives on the battlefield.",
+      "reference": "Bhagavad Gita, Chapter 1"
+    },
+    {
+      "id": "bhagavad_gita_009",
+      "categoryId": "bhagavad_gita",
+      "category": "Bhagavad Gita",
+      "question": "In which chapter does the verse beginning 'Karmanyevadhikaraste' appear?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chapter 1"
+        },
+        {
+          "id": "B",
+          "text": "Chapter 2"
+        },
+        {
+          "id": "C",
+          "text": "Chapter 3"
+        },
+        {
+          "id": "D",
+          "text": "Chapter 4"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "This famous verse appears in Chapter 2, verse 47. It teaches that one should focus on one's actions rather than claim control over their results.",
+      "reference": "Bhagavad Gita 2.47"
+    },
+    {
+      "id": "bhagavad_gita_010",
+      "categoryId": "bhagavad_gita",
+      "category": "Bhagavad Gita",
+      "question": "Which yoga in the Bhagavad Gita especially explains the path of devotion?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bhakti Yoga"
+        },
+        {
+          "id": "B",
+          "text": "Hatha Yoga"
+        },
+        {
+          "id": "C",
+          "text": "Laya Yoga"
+        },
+        {
+          "id": "D",
+          "text": "Ritual action alone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chapter 12 is called Bhakti Yoga. It describes devotion, faith, love, and surrender to the Divine.",
+      "reference": "Bhagavad Gita, Chapter 12"
+    },
+    {
+      "id": "mahabharata_011",
+      "categoryId": "mahabharata",
+      "category": "Mahabharata",
+      "question": "Who is traditionally regarded as the author of the Mahabharata?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Valmiki"
+        },
+        {
+          "id": "B",
+          "text": "Ved Vyasa"
+        },
+        {
+          "id": "C",
+          "text": "Kalidasa"
+        },
+        {
+          "id": "D",
+          "text": "Tulsidas"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sage Ved Vyasa is traditionally regarded as the composer of the Mahabharata. According to tradition, Ganesha acted as its scribe.",
+      "reference": "Mahabharata tradition"
+    },
+    {
+      "id": "mahabharata_012",
+      "categoryId": "mahabharata",
+      "category": "Mahabharata",
+      "question": "What was another name of Kunti, mother of the Pandavas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gandhari"
+        },
+        {
+          "id": "B",
+          "text": "Pritha"
+        },
+        {
+          "id": "C",
+          "text": "Satyavati"
+        },
+        {
+          "id": "D",
+          "text": "Madri"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kunti's birth name was Pritha. She was Pandu's wife and the mother of Yudhishthira, Bhima, and Arjuna.",
+      "reference": "Mahabharata, Adi Parva"
+    },
+    {
+      "id": "mahabharata_013",
+      "categoryId": "mahabharata",
+      "category": "Mahabharata",
+      "question": "What was the name of Arjuna's bow?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vijaya"
+        },
+        {
+          "id": "B",
+          "text": "Gandiva"
+        },
+        {
+          "id": "C",
+          "text": "Pinaka"
+        },
+        {
+          "id": "D",
+          "text": "Sharanga"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Arjuna's famous bow was called Gandiva. It was his principal weapon in the Mahabharata war.",
+      "reference": "Mahabharata"
+    },
+    {
+      "id": "mahabharata_014",
+      "categoryId": "mahabharata",
+      "category": "Mahabharata",
+      "question": "Who was the mother of the Kauravas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kunti"
+        },
+        {
+          "id": "B",
+          "text": "Gandhari"
+        },
+        {
+          "id": "C",
+          "text": "Draupadi"
+        },
+        {
+          "id": "D",
+          "text": "Subhadra"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gandhari was the wife of Dhritarashtra and mother of the Kauravas. Tradition describes her as having blindfolded herself.",
+      "reference": "Mahabharata, Adi Parva"
+    },
+    {
+      "id": "mahabharata_015",
+      "categoryId": "mahabharata",
+      "category": "Mahabharata",
+      "question": "Who was Draupadi's father?",
+      "options": [
+        {
+          "id": "A",
+          "text": "King Virata"
+        },
+        {
+          "id": "B",
+          "text": "King Drupada"
+        },
+        {
+          "id": "C",
+          "text": "King Janaka"
+        },
+        {
+          "id": "D",
+          "text": "King Shalya"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Draupadi was the daughter of King Drupada. She is also known as Panchali and Krishnaa.",
+      "reference": "Mahabharata, Adi Parva"
+    },
+    {
+      "id": "shiva_purana_016",
+      "categoryId": "shiva_purana",
+      "category": "Shiva Purana",
+      "question": "What is the name of Lord Shiva's vehicle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Garuda"
+        },
+        {
+          "id": "B",
+          "text": "Nandi"
+        },
+        {
+          "id": "C",
+          "text": "Airavata"
+        },
+        {
+          "id": "D",
+          "text": "Peacock"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nandi is revered as Lord Shiva's vehicle and devoted attendant. Images of Nandi are commonly placed facing the Shiva shrine.",
+      "reference": "Shaiva tradition"
+    },
+    {
+      "id": "shiva_purana_017",
+      "categoryId": "shiva_purana",
+      "category": "Shiva Purana",
+      "question": "What is the name commonly given to the poison consumed by Lord Shiva during the churning of the ocean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Halahala"
+        },
+        {
+          "id": "B",
+          "text": "Amrita"
+        },
+        {
+          "id": "C",
+          "text": "Soma"
+        },
+        {
+          "id": "D",
+          "text": "Mount Kalakuta"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The deadly poison produced during the churning of the ocean is called Halahala. In the well-known account, Shiva held it in his throat to protect the worlds and became known as Nilakantha.",
+      "reference": "Shiva Purana tradition, Samudra Manthana"
+    },
+    {
+      "id": "shiva_purana_018",
+      "categoryId": "shiva_purana",
+      "category": "Shiva Purana",
+      "question": "Which river is traditionally depicted flowing from Lord Shiva's matted hair?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yamuna"
+        },
+        {
+          "id": "B",
+          "text": "Godavari"
+        },
+        {
+          "id": "C",
+          "text": "Ganga"
+        },
+        {
+          "id": "D",
+          "text": "Narmada"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "When the Ganga descended to Earth, Shiva received her powerful flow in his matted locks. Hence he is called Gangadhara.",
+      "reference": "Shiva Purana tradition, Descent of the Ganga"
+    },
+    {
+      "id": "shiva_purana_019",
+      "categoryId": "shiva_purana",
+      "category": "Shiva Purana",
+      "question": "How many prongs does Lord Shiva's trident have?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Two"
+        },
+        {
+          "id": "B",
+          "text": "Three"
+        },
+        {
+          "id": "C",
+          "text": "Four"
+        },
+        {
+          "id": "D",
+          "text": "Five"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The trident has three prongs. Religious interpretations associate them with principles such as creation, preservation, and dissolution.",
+      "reference": "Shaiva symbolism"
+    },
+    {
+      "id": "shiva_purana_020",
+      "categoryId": "shiva_purana",
+      "category": "Shiva Purana",
+      "question": "Which animal's head does Lord Ganesha have?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lion"
+        },
+        {
+          "id": "B",
+          "text": "Elephant"
+        },
+        {
+          "id": "C",
+          "text": "Horse"
+        },
+        {
+          "id": "D",
+          "text": "Bull"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ganesha's elephant head is widely understood as a symbol of wisdom, discernment, and the power to remove obstacles.",
+      "reference": "Ganesha Purana and Puranic tradition"
+    },
+    {
+      "id": "vishnu_purana_021",
+      "categoryId": "vishnu_purana",
+      "category": "Vishnu Purana",
+      "question": "What is the vehicle of Lord Vishnu?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nandi"
+        },
+        {
+          "id": "B",
+          "text": "Garuda"
+        },
+        {
+          "id": "C",
+          "text": "Mouse"
+        },
+        {
+          "id": "D",
+          "text": "Swan"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Garuda is the vehicle of Lord Vishnu. He is revered as the king of birds and is closely associated with Vishnu's iconography.",
+      "reference": "Vaishnava Puranic tradition"
+    },
+    {
+      "id": "vishnu_purana_022",
+      "categoryId": "vishnu_purana",
+      "category": "Vishnu Purana",
+      "question": "Which objects are commonly shown in the four hands of Lord Vishnu?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trident, drum, sword, bow"
+        },
+        {
+          "id": "B",
+          "text": "Conch, discus, mace, lotus"
+        },
+        {
+          "id": "C",
+          "text": "Water pot, rosary, trident, spear"
+        },
+        {
+          "id": "D",
+          "text": "Veena, book, lotus, rosary"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Traditional iconography depicts Vishnu holding a conch, the Sudarshana discus, a mace, and a lotus.",
+      "reference": "Vishnu Purana and Vaishnava iconography"
+    },
+    {
+      "id": "vishnu_purana_023",
+      "categoryId": "vishnu_purana",
+      "category": "Vishnu Purana",
+      "question": "What is the Matsya incarnation of Vishnu associated with?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Churning of the ocean"
+        },
+        {
+          "id": "B",
+          "text": "Protection during the great deluge"
+        },
+        {
+          "id": "C",
+          "text": "Vamana's three strides"
+        },
+        {
+          "id": "D",
+          "text": "Narasimha defeating Hiranyakashipu"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "In the Matsya story, Vishnu guides Manu in preserving life and sacred knowledge during the great deluge.",
+      "reference": "Matsya Purana and Vishnu Purana traditions"
+    },
+    {
+      "id": "vishnu_purana_024",
+      "categoryId": "vishnu_purana",
+      "category": "Vishnu Purana",
+      "question": "How many paces of land did Vamana ask King Bali to grant?",
+      "options": [
+        {
+          "id": "A",
+          "text": "One"
+        },
+        {
+          "id": "B",
+          "text": "Three"
+        },
+        {
+          "id": "C",
+          "text": "Five"
+        },
+        {
+          "id": "D",
+          "text": "Seven"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Vamana asked King Bali for three paces of land, then expanded to cosmic size and covered Earth and heaven in two strides.",
+      "reference": "Vishnu Purana, Vamana episode"
+    },
+    {
+      "id": "hindu_gods_goddesses_025",
+      "categoryId": "hindu_gods_goddesses",
+      "category": "Hindu Gods & Goddesses",
+      "question": "Goddess Saraswati is associated with which domain?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wealth and prosperity"
+        },
+        {
+          "id": "B",
+          "text": "Knowledge, learning, and arts"
+        },
+        {
+          "id": "C",
+          "text": "Power and warfare"
+        },
+        {
+          "id": "D",
+          "text": "Rain"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Saraswati is revered as the goddess of knowledge, speech, music, and the arts. She is often depicted with a veena and a book.",
+      "reference": "Hindu religious tradition"
+    },
+    {
+      "id": "hindu_gods_goddesses_026",
+      "categoryId": "hindu_gods_goddesses",
+      "category": "Hindu Gods & Goddesses",
+      "question": "Goddess Lakshmi is primarily associated with what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wealth and prosperity"
+        },
+        {
+          "id": "B",
+          "text": "Warfare"
+        },
+        {
+          "id": "C",
+          "text": "Wind"
+        },
+        {
+          "id": "D",
+          "text": "Medicine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Lakshmi is revered as the goddess of wealth, good fortune, prosperity, and auspiciousness. She is especially worshipped during Diwali.",
+      "reference": "Hindu religious tradition"
+    },
+    {
+      "id": "hindu_gods_goddesses_027",
+      "categoryId": "hindu_gods_goddesses",
+      "category": "Hindu Gods & Goddesses",
+      "question": "In what capacity is Lord Ganesha commonly worshipped first?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Remover of obstacles"
+        },
+        {
+          "id": "B",
+          "text": "Guardian of directions"
+        },
+        {
+          "id": "C",
+          "text": "Protector of worlds"
+        },
+        {
+          "id": "D",
+          "text": "Celestial musician"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ganesha is revered as the remover of obstacles and the deity of auspicious beginnings, so he is invoked before many undertakings.",
+      "reference": "Ganesha Purana and Hindu tradition"
+    },
+    {
+      "id": "hindu_gods_goddesses_028",
+      "categoryId": "hindu_gods_goddesses",
+      "category": "Hindu Gods & Goddesses",
+      "question": "Lord Surya is the deity of what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fire"
+        },
+        {
+          "id": "B",
+          "text": "The Sun and light"
+        },
+        {
+          "id": "C",
+          "text": "The ocean"
+        },
+        {
+          "id": "D",
+          "text": "Mountains"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Surya is worshipped as the source of light, energy, and life. Offering water to the Sun is a widely practised devotional observance.",
+      "reference": "Vedic and Hindu religious tradition"
+    },
+    {
+      "id": "hindu_gods_goddesses_029",
+      "categoryId": "hindu_gods_goddesses",
+      "category": "Hindu Gods & Goddesses",
+      "question": "Lord Kartikeya is especially associated with which role?",
+      "options": [
+        {
+          "id": "A",
+          "text": "War and divine command"
+        },
+        {
+          "id": "B",
+          "text": "Rain"
+        },
+        {
+          "id": "C",
+          "text": "Wealth"
+        },
+        {
+          "id": "D",
+          "text": "Writing"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Kartikeya, also known as Skanda and Murugan, is revered as the commander of the divine forces and a symbol of courage.",
+      "reference": "Skanda Purana and Hindu tradition"
+    }
+  ]
+}
